@@ -4,7 +4,7 @@ export default function StatsRibbon() {
   return (
     <div className={styles.statsRibbon}>
         <div className={styles.statWrapper}>
-            <h3 className={styles.stat}>5+</h3>
+            <h3 className={styles.stat}>10+</h3>
             <h4 className={styles.title}>Years Experience</h4>
         </div>
         <div className={styles.statWrapper}>

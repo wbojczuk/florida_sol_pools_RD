@@ -46,7 +46,7 @@ export default function InlineReviews() {
            </Swiper>
         </div>
         <div className={`center ${styles.cta}`}>
-            <a target="_blank" className="main-link" href="https://www.facebook.com/TrexCarWashFlorence/reviews">Leave Review</a>
+            <a target="_blank" className="main-link" href="https://www.facebook.com/profile.php?id=100065116838698&sk=reviews">Leave Review</a>
             <Link className="main-link" href={"/contact"}>Contact</Link>
         </div>
         <img src="/img/reviews.png" aria-hidden className="bg-img" />
