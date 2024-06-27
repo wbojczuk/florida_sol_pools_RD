@@ -66,7 +66,7 @@ export default function PastWork() {
           </div>
         </div>
         
-        <img src="/img/past-work.png" alt="image of a pool" className="bg-img" />
+        <img src="/img/past-work.webp" alt="image of a pool" className="bg-img" />
         <div className="shader" style={{backgroundColor: "rgba(255,255,255,0.8)"}}></div>
     </div>
   )

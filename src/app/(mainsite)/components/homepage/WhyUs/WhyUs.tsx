@@ -11,7 +11,7 @@ return (
         <Link className='main-link' href={"/contact"}>Contact Us</Link>
     </div>
     <div className={styles.imgWrapper}>
-        <img src="/img/whyus.png" alt="image of an indoor pool" className="bg-img" />
+        <img src="/img/whyus.webp" alt="image of an indoor pool" className="bg-img" />
         <div className={`shader ${styles.shader}`}></div>
     </div>
  </div>

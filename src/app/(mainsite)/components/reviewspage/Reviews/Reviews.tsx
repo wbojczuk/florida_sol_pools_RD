@@ -20,8 +20,8 @@ export default function Reviews() {
         <Link href="/contact" className="main-link">Contact Us</Link>
         </div>
 
-        <div style={{backgroundColor: "rgba(0,0,0,0.64)"}} className="shader"></div>
-        <img src="/img/car-tire.webp" alt="image of a clean car tire" className="bg-img" />
+        <div style={{backgroundColor: "rgba(18,70,110,0.75)"}} className="shader"></div>
+        <img src="/img/reviews2.webp" alt="image of a clean car tire" className="bg-img" />
     </section>
   )
 }
